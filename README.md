@@ -1,7 +1,6 @@
 <div align="center">
   <h1>Welcome to Dirks's Github Space👋🔮</h1>
-  <img src=
-"![WIN_20240601_02_47_22_Pro](https://github.com/user-attachments/assets/01c59000-95f7-4074-8e47-d53d7e6cd852)">
+  <img src="">
 </div>
 
 <div align="center">
