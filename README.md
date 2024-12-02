@@ -8,7 +8,7 @@
 </div>
 <div>
   <p>
-   i love black dicks🤪. </p>
+   . </p>
   <p>
     Still a beginner, so bear with me. I'm interested in making designs that give developers a headache—kidding! I'm into designing and coding, both give me chills and pressure. Don't expect high I don't like that. 
   </p>
